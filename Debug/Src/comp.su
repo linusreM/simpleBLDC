@@ -1,0 +1,5 @@
+comp.c:32:6:MX_COMP2_Init	8	static
+comp.c:52:6:MX_COMP3_Init	8	static
+comp.c:72:6:MX_COMP4_Init	8	static
+comp.c:92:6:HAL_COMP_MspInit	48	static
+comp.c:167:6:HAL_COMP_MspDeInit	16	static
